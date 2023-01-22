@@ -1,7 +1,7 @@
 {
   "scripts": {
     "start": "parcel public/index.html --out-dir ./dist",
-    "build": "parcel build public/index.html  --out-dir ./docs --public-url https://osamahanoun.github.io/scheduling-timetable-genetic-algorithm",
+    "build": "parcel build public/index.html  --out-dir ./docs --public-url https://osamahanoun.github.io/genetic-algorithm-timetable-scheduler",
     "format": "prettier --write \"src/**/*.{ts,js}\"",
     "lint": "prettier --check \"src/**/*.{ts,js}\""
   },
